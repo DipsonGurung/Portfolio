@@ -1,5 +1,8 @@
 # Hello, I'm Dipson Gurung
-<a href="https://www.linkedin.com/in/dipson-gurung/" /></a><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<a href="https://www.linkedin.com/in/dipson-gurung/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 I am a bachelor's student with a strong passion for technology and a commitment to tackling challenging problems.
