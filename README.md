@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                          | Associated Project         |
 |------------------------------------------------|----------------------------|
+| **Full-stack SOC Lab Design (Blue + Red Team)** | **[Ultimate Home SOC Lab](https://github.com/DipsonGurung/Ultimate-SOC-Home-Lab)** (Ongoing) |
 |Simulated Attack Execution and Defense          | [Reverse Shell Simulation Lab](https://github.com/DipsonGurung/Ethical-Hacking-and-Reverse-Shell-Analysis) |
 | SIEM Implementation and Log Analysis           | [Detection Lab](https://github.com/DipsonGurung/Detection-Lab/tree/main) |
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/DipsonGurung/Detection-Lab/tree/main) |
